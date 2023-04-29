@@ -4,7 +4,7 @@
   margin-top: 50px;
   width: 300px;
   height: 135px;
-box-shadow: -11px 10px 12px 3px rgba(34, 60, 80, 0.37);
+  box-shadow: -11px 10px 12px 3px rgba(34, 60, 80, 0.37);
 }
 
 .title {
@@ -28,10 +28,9 @@ box-shadow: -11px 10px 12px 3px rgba(34, 60, 80, 0.37);
   padding-bottom: 8px;
   padding-top: 8px;
   font-size: 20px;
-  
 }
 
-.label{
-    margin-bottom: 8px;
-    font-weight: 600;
+.label {
+  margin-bottom: 8px;
+  font-weight: 600;
 }
