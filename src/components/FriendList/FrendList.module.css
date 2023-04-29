@@ -1,34 +1,34 @@
-.friendList{
- margin-top: 50px;
- padding: 0;
- display: flex;
- flex-direction: column;
- align-items: center;
- justify-content: center;
+.friendList {
+  margin-top: 50px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.item{
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 10px;
-    width: 180px;
-    height: 70px;
-    margin-bottom: 40px;
-    box-shadow: -11px 10px 12px 3px rgba(34, 60, 80, 0.37);
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  width: 180px;
+  height: 70px;
+  margin-bottom: 40px;
+  box-shadow: -11px 10px 12px 3px rgba(34, 60, 80, 0.37);
 }
 
-.status{
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
-    margin-left: 10px;
+.status {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-left: 10px;
 }
 
-.true{
-    background-color: green;
+.true {
+  background-color: green;
 }
 
-.false{
-    background-color: red;
+.false {
+  background-color: red;
 }
