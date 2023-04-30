@@ -1,5 +1,7 @@
 .transactionHistory {
   margin: 0 auto;
+  margin-bottom: 30px;
+  box-shadow: -11px 10px 12px 3px rgba(34, 60, 80, 0.37);
 }
 
 table {
@@ -9,10 +11,14 @@ table {
 table th,
 table td {
   padding: 10px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #dcdcdc;
   text-align: center;
 }
 
 tr th {
   background-color: burlywood;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(232, 227, 217);
 }
